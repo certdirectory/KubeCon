@@ -1,0 +1,47 @@
+site_name: KubeCon Swag
+site_url: https://kubecon.certdirectory.io
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+  logo: images/logo.png
+
+
+nav:
+  - KubeCon Swag:
+    - KubeCon EU 2025: KubeCon/EU2025.md
+#  - About: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/certdirectory/KubeCon-Swag
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/certdirectory
+  homepage: https://certdirectory.io
+
+repo_url: 'https://github.com/certdirectory/KubeCon-Swag'
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
