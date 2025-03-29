@@ -1,5 +1,7 @@
-# KubeCon EU 2025 Swag Collection
-A list of all the swag given away at KubeCon EU 2025! 🎁🎉 Stay updated on the best stickers, T-shirts, socks, and other cool freebies from booths. Contributions welcome!
+# KubeCon Swag Collection
+A list of all the swag given away at KubeCon - CloudNativeCon! 🎁🎉 Stay updated on the best stickers, T-shirts, socks, and other cool freebies from booths. Contributions welcome!
+
+## KubeCon - CloudNativeCon EU 2025
 
 Exhibitor Name | Stand Number/Location | Swag
 --- | --- | ---
