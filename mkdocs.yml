@@ -1,4 +1,6 @@
-site_name: KubeCon Swag
+site_name: The Guide to KubeCon
+site_description: A guide to KubeCon swag and events
+site_author: CertDirectory
 site_url: https://kubecon.certdirectory.io
 theme:
   name: material
@@ -17,6 +19,11 @@ theme:
 nav:
   - KubeCon Swag:
     - KubeCon EU 2025: KubeCon/EU2025.md
+    - KubeCon China 2025: KubeCon/China2025.md
+    - KubeCon Japan 2025: KubeCon/Japan2025.md
+    - KubeCon India 2025: KubeCon/India2025.md
+    - KubeCon North America 2025: KubeCon/NA2025.md
+    - KubeCon EU 2026: KubeCon/EU2026.md
 #  - About: about.md
 
 extra:
